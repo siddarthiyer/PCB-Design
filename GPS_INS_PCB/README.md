@@ -1,6 +1,6 @@
-# GPS-Based Inertial Navigation System V1
+# GPS-Aided Inertial Navigation System V1
 
-PCB Design for GPS-Based Inertial Navigation System
+PCB Design for GPS-Aided Inertial Navigation System
 * MCU: STM32F103C8T6
 * IMU: MPU9250 (I2C)
 * GPS: NEO-6M (UART)
